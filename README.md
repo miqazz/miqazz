@@ -28,7 +28,7 @@ Lifelong Learner, currently working as budagh kompeni.
 
 <h1>Github Stats ⭐</h1>
 
-[![Moch. Iqbal Az-Zahir’s github stats](https://github-readme-stats.vercel.app/api?username=miqazz)](https://github.com/miqazz)
+[![Moch. Iqbal Az-Zahir’s github stats](https://github-readme-stats.vercel.app/api?username=miqazz&show_icons=true&cache_seconds=1800)](https://github.com/miqazz)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=miqazz&show_icons=true&cache_seconds=1800)](https://github.com/miqazz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miqazz&layout=compact)](https://github.com/miqazz)
