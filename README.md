@@ -14,12 +14,12 @@ Lifelong Learner, currently working as budagh kompeni.
     - :keyboard: I’m currently learning Data Analytics. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:iqbalazzahir831@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: She/Her. </br>
-    - :game_die: Drawing and writing are part of me. </br>
+    - :cloud: Pronouns: He/His. </br>
+    - :game_die: Sleep and writing are part of me. </br>
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/yours">
+<a href="https://x.com/yours">
   <img align="left" alt="miqazz's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.instagram.com/iqbalazzahir_/">
@@ -30,6 +30,6 @@ Lifelong Learner, currently working as budagh kompeni.
 </a>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=namaAnda&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namaAnda&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=miqazz&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqazz&layout=compact" height=180 />
 </p>
