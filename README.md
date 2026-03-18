@@ -19,9 +19,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://x.com/yours">
-  <img align="left" alt="miqazz's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
-</a>
 <a href="https://www.instagram.com/iqbalazzahir_/">
   <img align="left" alt="miqazz's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
@@ -30,6 +27,6 @@ Lifelong Learner, currently working as budagh kompeni.
 </a>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MochIqbalAzzahir&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MochIqbalAzzahir&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=miqazz&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqazz&layout=compact" height=180 />
 </p>
