@@ -22,9 +22,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/iqbalazzahir_/">
   <img align="left" alt="miqazz's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://yours.com/">
-  <img align="left" alt="miqazz's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
 
 <h1>Github Stats ⭐</h1>
 
