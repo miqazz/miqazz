@@ -8,7 +8,7 @@ Lifelong Learner, currently working as budagh kompeni.
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
-[![Typing SVG](https://demolab.com)](https://git.io)
+[![Typing SVG](https://demolab.com)](https://github.com)
 
 ### <summary><strong>Yosh!</strong></summary>
 <p>
